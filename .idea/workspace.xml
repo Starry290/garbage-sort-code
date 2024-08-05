@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="garbage:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e549c4e0-edda-4dda-8796-ccdee9aa5167" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="jsf" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nKa1KuQwanAZps7fj8hV1sXQux" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/Detection/test" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java_project\garbage\src\main\webapp\static\images" />
+      <recent name="E:\Java_project\garbage\src\main\Detection\test" />
+      <recent name="E:\Java_project\garbage\src\main\webapp\static\js" />
+      <recent name="E:\Java_project\garbage\src\main\webapp\static\css" />
+      <recent name="E:\Java_project\garbage\src\main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java_project\garbage\src\main\webapp\static\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.garbage">
+    <configuration name="Test_python" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.java.controller.Test_python" />
+      <module name="garbage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_way" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.controller.Test_way" />
+      <module name="garbage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="garbage" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.26" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="garbage:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/garbage_war_exploded" />
+          </settings>
+        </artifact>
+        <file path="$PROJECT_DIR$/src/main/webapp/static/css">
+          <settings>
+            <option name="CONTEXT_PATH" value="/css" />
+          </settings>
+        </file>
+        <file path="$PROJECT_DIR$/src/main/webapp/static/fonts">
+          <settings>
+            <option name="CONTEXT_PATH" value="/fonts" />
+          </settings>
+        </file>
+        <file path="$PROJECT_DIR$/src/main/webapp/static/images">
+          <settings>
+            <option name="CONTEXT_PATH" value="/images" />
+          </settings>
+        </file>
+        <file path="$PROJECT_DIR$/src/main/webapp/static/js">
+          <settings>
+            <option name="CONTEXT_PATH" value="/js" />
+          </settings>
+        </file>
+        <file path="$PROJECT_DIR$/src/main/Detection/test">
+          <settings>
+            <option name="CONTEXT_PATH" value="/test" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_garbage" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5699" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="garbage:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="index.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.26" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index.jsp" />
+      <deployment>
+        <artifact name="garbage:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/garbage_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="index_jsp_garbage" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="garbage:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test_python" />
+      <item itemvalue="Application.Test_way" />
+      <item itemvalue="Tomcat Server.garbage" />
+      <item itemvalue="Tomcat Server.index.jsp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test_python" />
+        <item itemvalue="Tomcat Server.index.jsp" />
+        <item itemvalue="Application.Test_way" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e549c4e0-edda-4dda-8796-ccdee9aa5167" name="Default Changelist" comment="" />
+      <created>1611141020807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611141020807</updated>
+      <workItem from="1611141026678" duration="4574000" />
+      <workItem from="1611215037647" duration="9556000" />
+      <workItem from="1611293703535" duration="25236000" />
+      <workItem from="1611378004861" duration="23182000" />
+      <workItem from="1611404690968" duration="12128000" />
+      <workItem from="1611450539770" duration="1414000" />
+      <workItem from="1720694787710" duration="50000" />
+      <workItem from="1720694853756" duration="13554000" />
+      <workItem from="1720794649393" duration="165000" />
+      <workItem from="1720795307056" duration="1076000" />
+      <workItem from="1721151250913" duration="2988000" />
+      <workItem from="1721230151650" duration="3163000" />
+      <workItem from="1721418242338" duration="1219000" />
+      <workItem from="1721511558985" duration="3673000" />
+      <workItem from="1721758532735" duration="1142000" />
+      <workItem from="1721921489462" duration="2161000" />
+      <workItem from="1722533043021" duration="677000" />
+      <workItem from="1722534158195" duration="1827000" />
+      <workItem from="1722764359644" duration="111000" />
+      <workItem from="1722764489108" duration="803000" />
+      <workItem from="1722894421359" duration="59000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="478" y="179" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1722534797874">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="478" y="179" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.752@0.0.1280.752" timestamp="1722534797874" />
+    <state x="233" y="35" key="#项目结构" timestamp="1720694902118">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="233" y="35" key="#项目结构/0.0.1280.752@0.0.1280.752" timestamp="1720694902118" />
+    <state x="421" y="75" key="FileChooserDialogImpl" timestamp="1720694808060">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="421" y="75" key="FileChooserDialogImpl/0.0.1280.752@0.0.1280.752" timestamp="1720694808060" />
+    <state width="845" height="122" key="GridCell.Tab.0.bottom" timestamp="1722765371020">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="845" height="122" key="GridCell.Tab.0.bottom/0.0.1280.752@0.0.1280.752" timestamp="1722765371020" />
+    <state width="845" height="122" key="GridCell.Tab.0.center" timestamp="1722765371020">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="845" height="122" key="GridCell.Tab.0.center/0.0.1280.752@0.0.1280.752" timestamp="1722765371020" />
+    <state width="845" height="122" key="GridCell.Tab.0.left" timestamp="1722765371020">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="845" height="122" key="GridCell.Tab.0.left/0.0.1280.752@0.0.1280.752" timestamp="1722765371020" />
+    <state width="845" height="122" key="GridCell.Tab.0.right" timestamp="1722765371020">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="845" height="122" key="GridCell.Tab.0.right/0.0.1280.752@0.0.1280.752" timestamp="1722765371020" />
+    <state width="845" height="122" key="GridCell.Tab.1.bottom" timestamp="1722765371021">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="845" height="122" key="GridCell.Tab.1.bottom/0.0.1280.752@0.0.1280.752" timestamp="1722765371021" />
+    <state width="845" height="122" key="GridCell.Tab.1.center" timestamp="1722765371021">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="845" height="122" key="GridCell.Tab.1.center/0.0.1280.752@0.0.1280.752" timestamp="1722765371021" />
+    <state width="845" height="122" key="GridCell.Tab.1.left" timestamp="1722765371020">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="845" height="122" key="GridCell.Tab.1.left/0.0.1280.752@0.0.1280.752" timestamp="1722765371020" />
+    <state width="845" height="122" key="GridCell.Tab.1.right" timestamp="1722765371021">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="845" height="122" key="GridCell.Tab.1.right/0.0.1280.752@0.0.1280.752" timestamp="1722765371021" />
+    <state width="845" height="122" key="GridCell.Tab.2.bottom" timestamp="1722765371021">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="845" height="122" key="GridCell.Tab.2.bottom/0.0.1280.752@0.0.1280.752" timestamp="1722765371021" />
+    <state width="845" height="122" key="GridCell.Tab.2.center" timestamp="1722765371021">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="845" height="122" key="GridCell.Tab.2.center/0.0.1280.752@0.0.1280.752" timestamp="1722765371021" />
+    <state width="845" height="122" key="GridCell.Tab.2.left" timestamp="1722765371021">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="845" height="122" key="GridCell.Tab.2.left/0.0.1280.752@0.0.1280.752" timestamp="1722765371021" />
+    <state width="845" height="122" key="GridCell.Tab.2.right" timestamp="1722765371021">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="845" height="122" key="GridCell.Tab.2.right/0.0.1280.752@0.0.1280.752" timestamp="1722765371021" />
+    <state x="340" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1722894445216">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="340" y="201" key="com.intellij.ide.util.TipDialog/0.0.1280.752@0.0.1280.752" timestamp="1722894445216" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Test_model_py$garbage.ic" NAME="garbage Coverage Results" MODIFIED="1722764708704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
